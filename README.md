@@ -1,1 +1,1 @@
-This is the README.md file in the root directory of the alx-zero_day repository.
+Edited the README.md from github GUI for the fist and only time as instructed in the task
